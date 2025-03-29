@@ -8,7 +8,8 @@
 An AI-powered application that analyzes your resume against specific job descriptions, providing personalized feedback and recommendations to help improve your chances of landing your dream job.
 
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/1063314/screenshots/3020974/media/eed9cfaeceaa7cb8ae15e8a1b586a8f5.gif" alt="AI Resume Analyzer Demo" width="80%">
+  <img src="![image](https://github.com/user-attachments/assets/4e18fe61-66f2-4337-b64a-32b479c6b283)
+" alt="AI Resume Analyzer Demo" width="80%">
 </div>
 
 ## 🌐 Live Demo
