@@ -54,10 +54,6 @@ Check out more Python and AI tutorials on my channel:
 
 The application includes several animations to enhance the user experience:
 
-<div align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1000/1*JD-y_wLTTcN_gIWWwJUvqA.gif" alt="UI Animations Demo" width="80%">
-</div>
-
 - **Sliding Chat Messages**: Messages slide in from the left (user) or right (AI) with a smooth fade-in effect
 - **Hover Effects**: Interactive elements like upload boxes and job detail sections have subtle lift animations on hover
 - **Button Animations**: Buttons feature elevation and color changes when hovered
