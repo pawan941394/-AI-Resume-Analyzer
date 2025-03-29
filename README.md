@@ -7,6 +7,12 @@
 
 An AI-powered application that analyzes your resume against specific job descriptions, providing personalized feedback and recommendations to help improve your chances of landing your dream job.
 
+## 🌐 Live Demo
+
+Try out the application now without any installation:
+
+[**🔗 Live Demo: Job Cracking Resume Analyzer**](https://job-cracking.streamlit.app/)
+
 ## 📺 Video Tutorial
 
 Learn how to use and customize this project step-by-step:
@@ -27,6 +33,19 @@ Check out more Python and AI tutorials on my channel:
 - **Optimized Resume Generation**: Request an AI-generated optimized resume based on the analysis
 - **Animated UI**: Enjoy a responsive and animated user interface for better experience
 
+## 🎨 UI Animation Features
+
+The application includes several animations to enhance the user experience:
+
+- **Sliding Chat Messages**: Messages slide in from the left (user) or right (AI) with a smooth fade-in effect
+- **Hover Effects**: Interactive elements like upload boxes and job detail sections have subtle lift animations on hover
+- **Button Animations**: Buttons feature elevation and color changes when hovered
+- **Transition Effects**: Smooth transitions between different states and sections
+- **Loading Animations**: Visual feedback during resume analysis and AI response generation
+- **Gradient Text Effects**: Dynamic gradient coloring for headings
+
+These animations make the application feel more responsive and engaging while providing visual feedback during interactions.
+
 ## 📋 Prerequisites
 
 - Python 3.9 or higher
@@ -46,6 +65,14 @@ Check out more Python and AI tutorials on my channel:
    ```
 
 ## 🚀 Usage
+
+You have two options to use this application:
+
+### Option 1: Use the Live Demo
+
+Visit our hosted version at [**https://job-cracking.streamlit.app/**](https://job-cracking.streamlit.app/) to use the application without any setup.
+
+### Option 2: Run Locally
 
 1. Run the application using Streamlit:
    ```bash
@@ -92,6 +119,8 @@ This application requires a Google Gemini API key to function:
 - Enhanced visualization of resume-to-job matching
 - Resume formatting suggestions with visual examples
 - Improved accessibility features
+- Additional UI animations and transitions for a more polished experience
+- Dark mode with animated transitions
 
 ## 🎓 Learn More
 
