@@ -96,7 +96,7 @@ Visit our hosted version at [**https://job-cracking.streamlit.app/**](https://jo
 ### Option 2: Run Locally
 
 <div align="center">
-  <img src="https://github.com/pawan941394/-AI-Resume-Analyzer/blob/main/screenshoots/second" alt="Local Setup" width="80%">
+  <img src="https://github.com/pawan941394/-AI-Resume-Analyzer/blob/main/screenshoots/second.png" alt="Local Setup" width="80%">
 </div>
 
 1. Run the application using Streamlit:
@@ -119,13 +119,13 @@ Visit our hosted version at [**https://job-cracking.streamlit.app/**](https://jo
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="https://assets-global.website-files.com/5f4bb6b3681293040263d6c6/6426c6007cfd55ba82586be8_resume-analyzer-dashboard.png" alt="Main Interface" width="80%">
+  <img src="https://github.com/pawan941394/-AI-Resume-Analyzer/blob/main/screenshoots/Screenshot%202025-03-29%20115400.png" alt="Main Interface" width="80%">
   <p><i>Resume Dashboard Example</i></p>
   
   <img src="https://www.gethired.io/wp-content/uploads/2023/01/resume-analysis.png" alt="Analysis Results" width="80%">
   <p><i>Analysis Results Example</i></p>
   
-  <img src="https://media.licdn.com/dms/image/D5612AQFyTPjeB5qSYQ/article-cover_image-shrink_600_2000/0/1686120555884?e=2147483647&v=beta&t=S3lEcA18NUxVZCbrfVG_EV13kEziRnXI7HpW76jJe3g" alt="Chat Interface" width="80%">
+  <img src="https://github.com/pawan941394/-AI-Resume-Analyzer/blob/main/screenshoots/analysis.png" alt="Chat Interface" width="80%">
   <p><i>Interactive Chat Interface Example</i></p>
 </div>
 
