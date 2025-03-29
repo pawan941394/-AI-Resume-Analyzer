@@ -40,7 +40,7 @@ Check out more Python and AI tutorials on my channel:
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github.com/pawan941394/-AI-Resume-Analyzer/blob/main/screenshoots/second.png" alt="Resume Analysis" width="100%"></td>
+      <td><img src="https://github.com/pawan941394/-AI-Resume-Analyzer/blob/main/screenshoots/analysis" alt="Resume Analysis" width="100%"></td>
       <td><img  src="https://github.com/pawan941394/-AI-Resume-Analyzer/blob/main/screenshoots/chat.png" alt="Interactive Chat" width="100%"></td>
     </tr>
     <tr>
