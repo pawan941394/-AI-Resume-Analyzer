@@ -8,7 +8,7 @@
 An AI-powered application that analyzes your resume against specific job descriptions, providing personalized feedback and recommendations to help improve your chances of landing your dream job.
 
 <div align="center">
-  <img src="https://github.com/pawan941394/ai-resume-analyzer/raw/main/assets/demo.gif" alt="AI Resume Analyzer Demo" width="80%">
+  <img src="https://cdn.dribbble.com/users/1063314/screenshots/3020974/media/eed9cfaeceaa7cb8ae15e8a1b586a8f5.gif" alt="AI Resume Analyzer Demo" width="80%">
 </div>
 
 ## 🌐 Live Demo
@@ -40,8 +40,8 @@ Check out more Python and AI tutorials on my channel:
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github.com/pawan941394/ai-resume-analyzer/raw/main/assets/analysis.gif" alt="Resume Analysis" width="100%"></td>
-      <td><img src="https://github.com/pawan941394/ai-resume-analyzer/raw/main/assets/chat.gif" alt="Interactive Chat" width="100%"></td>
+      <td><img src="https://www.analyticsvidhya.com/wp-content/uploads/2021/06/39595analytics.gif" alt="Resume Analysis" width="100%"></td>
+      <td><img src="https://cdn.dribbble.com/users/472667/screenshots/8364191/media/36826712c015e482a556c9110f2b7899.gif" alt="Interactive Chat" width="100%"></td>
     </tr>
     <tr>
       <td align="center"><b>Resume Analysis</b></td>
@@ -55,7 +55,7 @@ Check out more Python and AI tutorials on my channel:
 The application includes several animations to enhance the user experience:
 
 <div align="center">
-  <img src="https://github.com/pawan941394/ai-resume-analyzer/raw/main/assets/ui-animations.gif" alt="UI Animations Demo" width="80%">
+  <img src="https://miro.medium.com/v2/resize:fit:1000/1*JD-y_wLTTcN_gIWWwJUvqA.gif" alt="UI Animations Demo" width="80%">
 </div>
 
 - **Sliding Chat Messages**: Messages slide in from the left (user) or right (AI) with a smooth fade-in effect
@@ -94,13 +94,13 @@ You have two options to use this application:
 Visit our hosted version at [**https://job-cracking.streamlit.app/**](https://job-cracking.streamlit.app/) to use the application without any setup.
 
 <div align="center">
-  <img src="https://github.com/pawan941394/ai-resume-analyzer/raw/main/assets/live-demo.gif" alt="Live Demo Usage" width="80%">
+  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt="Live Demo Usage" width="60%">
 </div>
 
 ### Option 2: Run Locally
 
 <div align="center">
-  <img src="https://github.com/pawan941394/ai-resume-analyzer/raw/main/assets/local-setup.gif" alt="Local Setup" width="80%">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*p22IblS3JiVKL9Pxhsn1-w.gif" alt="Local Setup" width="80%">
 </div>
 
 1. Run the application using Streamlit:
@@ -123,20 +123,20 @@ Visit our hosted version at [**https://job-cracking.streamlit.app/**](https://jo
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="https://github.com/pawan941394/ai-resume-analyzer/raw/main/assets/screenshot1.png" alt="Main Interface" width="80%">
-  <p><i>Main Interface</i></p>
+  <img src="https://assets-global.website-files.com/5f4bb6b3681293040263d6c6/6426c6007cfd55ba82586be8_resume-analyzer-dashboard.png" alt="Main Interface" width="80%">
+  <p><i>Resume Dashboard Example</i></p>
   
-  <img src="https://github.com/pawan941394/ai-resume-analyzer/raw/main/assets/screenshot2.png" alt="Analysis Results" width="80%">
-  <p><i>Analysis Results</i></p>
+  <img src="https://www.gethired.io/wp-content/uploads/2023/01/resume-analysis.png" alt="Analysis Results" width="80%">
+  <p><i>Analysis Results Example</i></p>
   
-  <img src="https://github.com/pawan941394/ai-resume-analyzer/raw/main/assets/screenshot3.png" alt="Chat Interface" width="80%">
-  <p><i>Interactive Chat Interface</i></p>
+  <img src="https://media.licdn.com/dms/image/D5612AQFyTPjeB5qSYQ/article-cover_image-shrink_600_2000/0/1686120555884?e=2147483647&v=beta&t=S3lEcA18NUxVZCbrfVG_EV13kEziRnXI7HpW76jJe3g" alt="Chat Interface" width="80%">
+  <p><i>Interactive Chat Interface Example</i></p>
 </div>
 
 ## 🛠️ How It Works
 
 <div align="center">
-  <img src="https://github.com/pawan941394/ai-resume-analyzer/raw/main/assets/how-it-works.gif" alt="How It Works" width="80%">
+  <img src="https://cdn.dribbble.com/users/1299339/screenshots/14693431/media/0d94781cccdea3ee4eedd7f915b2fd7f.gif" alt="How It Works" width="80%">
 </div>
 
 1. **Resume Extraction**: The application extracts text from your uploaded PDF resume
