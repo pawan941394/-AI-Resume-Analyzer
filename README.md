@@ -96,7 +96,7 @@ Visit our hosted version at [**https://job-cracking.streamlit.app/**](https://jo
 ### Option 2: Run Locally
 
 <div align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*p22IblS3JiVKL9Pxhsn1-w.gif" alt="Local Setup" width="80%">
+  <img src="https://github.com/pawan941394/-AI-Resume-Analyzer/blob/main/screenshoots/second" alt="Local Setup" width="80%">
 </div>
 
 1. Run the application using Streamlit:
