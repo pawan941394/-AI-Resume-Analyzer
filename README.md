@@ -122,10 +122,10 @@ Visit our hosted version at [**https://job-cracking.streamlit.app/**](https://jo
   <img src="https://github.com/pawan941394/-AI-Resume-Analyzer/blob/main/screenshoots/Screenshot%202025-03-29%20115400.png" alt="Main Interface" width="80%">
   <p><i>Resume Dashboard Example</i></p>
   
-  <img src="https://www.gethired.io/wp-content/uploads/2023/01/chat.png" alt="Analysis Results" width="80%">
+  <img src="https://github.com/pawan941394/-AI-Resume-Analyzer/blob/main/screenshoots/analysis.png" alt="Analysis Results" width="80%">
   <p><i>Analysis Results Example</i></p>
   
-  <img src="https://github.com/pawan941394/-AI-Resume-Analyzer/blob/main/screenshoots/analysis.png" alt="Chat Interface" width="80%">
+  <img src="https://github.com/pawan941394/-AI-Resume-Analyzer/blob/main/screenshoots/chat.png" alt="Chat Interface" width="80%">
   <p><i>Interactive Chat Interface Example</i></p>
 </div>
 
