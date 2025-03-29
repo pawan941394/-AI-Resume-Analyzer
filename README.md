@@ -40,8 +40,8 @@ Check out more Python and AI tutorials on my channel:
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://www.analyticsvidhya.com/wp-content/uploads/2021/06/39595analytics.gif" alt="Resume Analysis" width="100%"></td>
-      <td><img src="https://cdn.dribbble.com/users/472667/screenshots/8364191/media/36826712c015e482a556c9110f2b7899.gif" alt="Interactive Chat" width="100%"></td>
+      <td><img src="https://github.com/pawan941394/-AI-Resume-Analyzer/blob/main/screenshoots/second.png" alt="Resume Analysis" width="100%"></td>
+      <td><img  src="https://github.com/pawan941394/-AI-Resume-Analyzer/blob/main/screenshoots/chat.png" alt="Interactive Chat" width="100%"></td>
     </tr>
     <tr>
       <td align="center"><b>Resume Analysis</b></td>
