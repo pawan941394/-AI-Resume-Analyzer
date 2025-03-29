@@ -131,9 +131,7 @@ Visit our hosted version at [**https://job-cracking.streamlit.app/**](https://jo
 
 ## 🛠️ How It Works
 
-<div align="center">
-  <img src="https://cdn.dribbble.com/users/1299339/screenshots/14693431/media/0d94781cccdea3ee4eedd7f915b2fd7f.gif" alt="How It Works" width="80%">
-</div>
+
 
 1. **Resume Extraction**: The application extracts text from your uploaded PDF resume
 2. **AI Analysis**: Google's Gemini AI compares your resume against the job description
